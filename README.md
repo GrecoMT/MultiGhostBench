@@ -1,3 +1,3 @@
 # MultiGhostBench
 
-This repository contains the MultiGhostBench dataset and the file with the prompts used.
+Code and dataset for our paper - "MultiGhostBench: A Multilingual Benchmark for Long-Form LLM-Generated Text Attribution under Distribution Shifts"
